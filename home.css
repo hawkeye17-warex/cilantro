@@ -382,7 +382,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('mandala.jpg');
+    background-image: url('../mandala.jpg');
     opacity: 0.05;
     pointer-events: none;
 }
@@ -616,7 +616,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('design.webp');
+    background-image: url('../design.webp');
     opacity: 0.05;
     pointer-events: none;
 }
@@ -1081,9 +1081,9 @@
     transition: all 0.5s ease;
 }
 
-.downtown { background-image: url('/gateway.jpg'); }
-.suburbs { background-image: url('/portage.jpg'); }
-.riverside { background-image: url('/bridgewater.jpg'); }
+.downtown { background-image: url('../gateway.jpg'); }
+.suburbs { background-image: url('../portage.jpg'); }
+.riverside { background-image: url('../bridgewater.jpg'); }
 
 .location-content {
     position: absolute;
@@ -1526,3 +1526,4 @@
     }
 
 }
+
