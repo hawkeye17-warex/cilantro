@@ -1081,9 +1081,9 @@
     transition: all 0.5s ease;
 }
 
-.downtown { background-image: url('gateway.jpg'); }
-.suburbs { background-image: url('portage.jpg'); }
-.riverside { background-image: url('bridgewater.jpg'); }
+.downtown { background-image: url('/gateway.jpg'); }
+.suburbs { background-image: url('/portage.jpg'); }
+.riverside { background-image: url('/bridgewater.jpg'); }
 
 .location-content {
     position: absolute;
@@ -1524,4 +1524,5 @@
     .logo img {
         width: 100px;
     }
+
 }
